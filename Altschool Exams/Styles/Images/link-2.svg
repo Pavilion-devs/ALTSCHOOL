@@ -1,0 +1,61 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" fill="#1E1E1E"/>
+<g id="Hero section " clip-path="url(#clip0_0_1)">
+<rect width="1440" height="1024" transform="translate(-494 -671)" fill="white"/>
+<g id="aurora">
+<g id="bg aurora" filter="url(#filter0_f_0_1)">
+<ellipse cx="-203.448" cy="-563.46" rx="99.5522" ry="107.54" fill="#D60505"/>
+</g>
+<g id="bg aurora_2" filter="url(#filter1_f_0_1)">
+<ellipse cx="66.5522" cy="-551.563" rx="99.5522" ry="107.54" fill="#067808"/>
+</g>
+<g id="bg aurora_3" filter="url(#filter2_f_0_1)">
+<ellipse cx="619.5" cy="-412.603" rx="135.5" ry="146.5" fill="#EAC81F"/>
+</g>
+</g>
+<g id="Group 2">
+<path id="Vector 2" d="M30.6771 -12.8893C79.2276 -117.174 118.407 5.5845 142.623 53.0209C177.043 120.448 262.301 180.6 59.9715 201.011C-142.358 221.422 -30.0109 117.467 30.6771 -12.8893Z" fill="#E2E9F0"/>
+<g id="Frame 29546" filter="url(#filter3_b_0_1)">
+<rect x="-60" y="-40" width="768" height="224" rx="24" fill="#FEFEFE" fill-opacity="0.1"/>
+<g id="Frame 1000001716">
+<g id="Frame 7">
+<g id="link-2">
+<path id="Vector" d="M50 23.3333L60 23.3333C62.1887 23.3333 64.356 23.7643 66.3781 24.6019C68.4002 25.4395 70.2375 26.6672 71.7851 28.2148C73.3328 29.7624 74.5604 31.5998 75.398 33.6219C76.2356 35.644 76.6667 37.8112 76.6667 39.9999C76.6667 42.1886 76.2356 44.3559 75.398 46.378C74.5604 48.4001 73.3328 50.2374 71.7851 51.785C70.2375 53.3327 68.4002 54.5603 66.3781 55.3979C64.356 56.2355 62.1887 56.6666 60 56.6666H50M30 56.6666H20C17.8113 56.6666 15.644 56.2355 13.6219 55.3979C11.5998 54.5603 9.76253 53.3327 8.21488 51.785C5.08928 48.6594 3.33333 44.4202 3.33333 39.9999C3.33333 35.5796 5.08928 31.3404 8.21488 28.2148C11.3405 25.0892 15.5797 23.3333 20 23.3333H30" stroke="#141414" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M26.6667 40H53.3333" stroke="#141414" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="link-2_2">
+<path id="Vector_3" d="M122 23.3333L132 23.3333C134.189 23.3333 136.356 23.7643 138.378 24.6019C140.4 25.4395 142.237 26.6672 143.785 28.2148C145.333 29.7624 146.56 31.5998 147.398 33.6219C148.236 35.644 148.667 37.8112 148.667 39.9999C148.667 42.1886 148.236 44.3559 147.398 46.378C146.56 48.4001 145.333 50.2374 143.785 51.785C142.237 53.3327 140.4 54.5603 138.378 55.3979C136.356 56.2355 134.189 56.6666 132 56.6666H122M102 56.6666H92C89.8113 56.6666 87.644 56.2355 85.6219 55.3979C83.5998 54.5603 81.7625 53.3327 80.2149 51.785C77.0893 48.6594 75.3333 44.4202 75.3333 39.9999C75.3333 35.5796 77.0893 31.3404 80.2149 28.2148C83.3405 25.0892 87.5797 23.3333 92 23.3333H102" stroke="#141414" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<rect x="-59.75" y="-39.75" width="767.5" height="223.5" rx="23.75" stroke="#005AE2" stroke-width="0.5"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-1003" y="-1371" width="1599.1" height="1615.08" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="350" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_f_0_1" x="-733" y="-1359.1" width="1599.1" height="1615.08" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="350" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter2_f_0_1" x="-216" y="-1259.1" width="1671" height="1693" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="350" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter3_b_0_1" x="-272" y="-252" width="1192" height="648" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="106"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="1024" fill="white" transform="translate(-494 -671)"/>
+</clipPath>
+</defs>
+</svg>
